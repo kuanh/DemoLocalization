@@ -1,0 +1,9 @@
+/* 
+  localizable.strings
+  Demo1
+
+  Created by Developer on 8/3/18.
+  Copyright © 2018 Developer. All rights reserved.
+*/
+"NAME" = "Computer";
+"SALARY" = "1000 $";
